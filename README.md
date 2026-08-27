@@ -1,5 +1,7 @@
 # Laboratório Automatizado de Active Directory: IAM & RBAC como Código
 
+*[Read this project in English here](README-EN.md)*
+
 Este repositório contém um projeto completo de infraestrutura automatizada desenvolvido para implantar um ambiente seguro de **Active Directory (AD)** utilizando **PowerShell** e conceitos de **Infraestrutura como Código (IaC)**.
 
 O objetivo principal é automatizar o processo de onboarding de **Gestão de Identidades e Acessos (IAM)** e aplicar o **Controle de Acesso Baseado em Funções (RBAC)** entre diferentes departamentos.
